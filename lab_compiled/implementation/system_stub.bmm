@@ -1,0 +1,14 @@
+// File: D:\Study\CUA\Fall_2012\CSC525\CSC525_labs\lab1_compiled\implementation\system_stub.bmm
+
+ADDRESS_MAP microblaze_0 MICROBLAZE 100
+	ADDRESS_SPACE lmb_bram_combined COMBINED [0x00000000:0x00003fff]
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			system_i/lmb_bram/lmb_bram/ramb36_0 [31:24] INPUT = lmb_bram_combined_0.mem ;
+			system_i/lmb_bram/lmb_bram/ramb36_1 [23:16] INPUT = lmb_bram_combined_1.mem ;
+			system_i/lmb_bram/lmb_bram/ramb36_2 [15:8] INPUT = lmb_bram_combined_2.mem ;
+			system_i/lmb_bram/lmb_bram/ramb36_3 [7:0] INPUT = lmb_bram_combined_3.mem ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+	END_ADDRESS_SPACE;
+END_ADDRESS_MAP;

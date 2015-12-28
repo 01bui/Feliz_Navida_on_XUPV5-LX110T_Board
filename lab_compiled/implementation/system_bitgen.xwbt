@@ -1,0 +1,7 @@
+INFILE=D:\Study\CUA\Fall_2012\CSC525\CSC525_labs\lab1_compiled\implementation\system.ncd
+OUTFILE=D:\Study\CUA\Fall_2012\CSC525\CSC525_labs\lab1_compiled\implementation\system.bit
+FAMILY=Virtex5
+PART=xc5vlx110t-1ff1136
+WORKINGDIR=D:\Study\CUA\Fall_2012\CSC525\CSC525_labs\lab1_compiled\implementation
+LICENSE=ISE
+USER_INFO=0_0_861

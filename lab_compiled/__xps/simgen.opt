@@ -1,0 +1,1 @@
+ -p virtex5 -lang vhdl$(PROJECT_SEARCHPATHOPT) $(GLOBAL_SEARCHPATHOPT)   TestApp_Memory_microblaze_0/executable.elf -msg __xps/ise/xmsgprops.lst -s mti -X D:/Study/CUA/Fall_2012/CSC525/Final_Project_CSC525_Vy/lab1_compiled/

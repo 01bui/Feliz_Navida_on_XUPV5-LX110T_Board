@@ -1,0 +1,5 @@
+vhdl clock_generator_v4_00_a "C:\Xilinx\12.2\ISE_DS\EDK\hw\XilinxProcessorIPLib\pcores\clock_generator_v4_00_a\hdl\vhdl\dcm_module.vhd"
+vhdl clock_generator_v4_00_a "C:\Xilinx\12.2\ISE_DS\EDK\hw\XilinxProcessorIPLib\pcores\clock_generator_v4_00_a\hdl\vhdl\pll_module.vhd"
+vhdl clock_generator_v4_00_a "C:\Xilinx\12.2\ISE_DS\EDK\hw\XilinxProcessorIPLib\pcores\clock_generator_v4_00_a\hdl\vhdl\mmcm_module.vhd"
+vhdl clock_generator_0_v4_00_a "D:\Study\CUA\Fall_2012\CSC525\CSC525_labs\lab1_compiled\hdl\elaborate\clock_generator_0_v4_00_a\hdl\vhdl\clock_generator.vhd"
+vhdl work "D:\Study\CUA\Fall_2012\CSC525\CSC525_labs\lab1_compiled\hdl\clock_generator_0_wrapper.vhd"

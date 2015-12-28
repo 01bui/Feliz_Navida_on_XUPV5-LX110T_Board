@@ -1,0 +1,7 @@
+vhdl proc_common_v3_00_a "C:\Xilinx\12.2\ISE_DS\EDK\hw\XilinxProcessorIPLib\pcores\proc_common_v3_00_a\hdl\vhdl\pselect.vhd"
+vhdl proc_common_v3_00_a "C:\Xilinx\12.2\ISE_DS\EDK\hw\XilinxProcessorIPLib\pcores\proc_common_v3_00_a\hdl\vhdl\family_support.vhd"
+vhdl mdm_v1_00_g "C:\Xilinx\12.2\ISE_DS\EDK\hw\XilinxProcessorIPLib\pcores\mdm_v1_00_g\hdl\vhdl\srl_fifo.vhd"
+vhdl mdm_v1_00_g "C:\Xilinx\12.2\ISE_DS\EDK\hw\XilinxProcessorIPLib\pcores\mdm_v1_00_g\hdl\vhdl\jtag_control.vhd"
+vhdl mdm_v1_00_g "C:\Xilinx\12.2\ISE_DS\EDK\hw\XilinxProcessorIPLib\pcores\mdm_v1_00_g\hdl\vhdl\mdm_core.vhd"
+vhdl mdm_v1_00_g "C:\Xilinx\12.2\ISE_DS\EDK\hw\XilinxProcessorIPLib\pcores\mdm_v1_00_g\hdl\vhdl\mdm.vhd"
+vhdl work "C:\Users\ALY\Desktop\lab1_test2\hdl\mdm_0_wrapper.vhd"

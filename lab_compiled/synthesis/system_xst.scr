@@ -1,0 +1,14 @@
+run
+-opt_mode speed
+-netlist_hierarchy as_optimized
+-opt_level 1
+-p xc5vlx110tff1136-1
+-top system
+-ifmt MIXED
+-ifn system_xst.prj
+-ofn ../implementation/system.ngc
+-hierarchy_separator /
+-iobuf YES
+-max_fanout 10000
+-sd {../implementation}
+-vlgincdir {"D:\Study\CUA\Fall_2012\CSC525\CSC525_labs\lab1_compiled\pcores\" "C:\Xilinx\12.2\ISE_DS\EDK\hw\XilinxProcessorIPLib\pcores\" }
